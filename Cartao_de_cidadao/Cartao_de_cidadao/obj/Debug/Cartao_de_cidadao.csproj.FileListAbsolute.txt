@@ -1,0 +1,12 @@
+C:\Users\mega1\source\repos\Cartao_de_cidadao\Cartao_de_cidadao\bin\Debug\Cartao_de_cidadao.exe.config
+C:\Users\mega1\source\repos\Cartao_de_cidadao\Cartao_de_cidadao\bin\Debug\Cartao_de_cidadao.exe
+C:\Users\mega1\source\repos\Cartao_de_cidadao\Cartao_de_cidadao\bin\Debug\Cartao_de_cidadao.pdb
+C:\Users\mega1\source\repos\Cartao_de_cidadao\Cartao_de_cidadao\obj\Debug\Cartao_de_cidadao.csprojAssemblyReference.cache
+C:\Users\mega1\source\repos\Cartao_de_cidadao\Cartao_de_cidadao\obj\Debug\Cartao_de_cidadao.Form1.resources
+C:\Users\mega1\source\repos\Cartao_de_cidadao\Cartao_de_cidadao\obj\Debug\Cartao_de_cidadao.Properties.Resources.resources
+C:\Users\mega1\source\repos\Cartao_de_cidadao\Cartao_de_cidadao\obj\Debug\Cartao_de_cidadao.csproj.GenerateResource.cache
+C:\Users\mega1\source\repos\Cartao_de_cidadao\Cartao_de_cidadao\obj\Debug\Cartao_de_cidadao.csproj.CoreCompileInputs.cache
+C:\Users\mega1\source\repos\Cartao_de_cidadao\Cartao_de_cidadao\obj\Debug\Cartao_de_cidadao.exe
+C:\Users\mega1\source\repos\Cartao_de_cidadao\Cartao_de_cidadao\obj\Debug\Cartao_de_cidadao.pdb
+C:\Users\mega1\source\repos\Cartao_de_cidadao\Cartao_de_cidadao\obj\Debug\Cartao_de_cidadao.Read.resources
+C:\Users\mega1\source\repos\Cartao_de_cidadao\Cartao_de_cidadao\obj\Debug\Cartao_de_cidadao.Read_cc.resources
